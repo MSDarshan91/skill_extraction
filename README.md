@@ -1,2 +1,2 @@
-# skill_extraction
+# Skill Extraction from text
 An application to extract skills from personal communicatio data by making use of stack exchange dataset
