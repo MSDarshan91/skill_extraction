@@ -1,0 +1,82 @@
+Started Reading Emails...
+Extracted skills are:
+User:::: Reynold Xin <rxin@databricks.com>
+	apache spark 99.3788437843
+	hadoop 51.8147400618
+	java 47.9267699122
+	cassandra 2.0 46.89083004
+	spark 45.4427554011
+	scala 34.4958409667
+	flex 30.5257251263
+	codeigniter 20.538520813
+	oauth 2.0 20.538520813
+	c++ 19.1537759304
+	flex4 18.5297632813
+	shuffle 15.467543602
+	cassandra 14.8340851665
+	mllib 13.3208898306
+	python 12.8857652247
+User:::: Ted Yu <yuzhihong@gmail.com>
+	java 22.770244807
+	apache spark 15.794075191
+	code coverage 11.9065856934
+	hadoop 8.18497818708
+	cassandra 7.89280468225
+	scala 5.97749733925
+	c# 5.69081231952
+	build 5.26449322701
+	spark 4.92838042974
+	unit testing 4.60828608274
+	out of memory 4.45221763849
+	python 4.29224830866
+	build process 4.2908193469
+	flex 4.02283519506
+	.net 3.87538453937
+User:::: Mark Hamstra <mark@clearstorydata.com>
+	apache spark 49.7795374095
+	cassandra 2.0 46.89083004
+	java 24.6237812042
+	hadoop 23.8656772673
+	spark 21.3762666881
+	flex 21.3720055223
+	codeigniter 20.538520813
+	oauth 2.0 20.538520813
+	scala 12.5125946403
+	cassandra 11.7626962662
+	flex4 11.3367670178
+	datastax enterprise 11.0037136078
+	spark view engine 10.6347337365
+	asp.net mvc 9.73674583435
+	r 9.52335929871
+User:::: Koert Kuipers <koert@tresata.com>
+	apache spark 20.4727686346
+	cassandra 2.0 17.584061265
+	java 9.54601860046
+	hadoop 9.1720135808
+	spark 8.65093132854
+	flex 8.64667016268
+	build 7.89673984051
+	codeigniter 7.70194530487
+	oauth 2.0 7.70194530487
+	build process 6.43622902036
+	scala 5.1609094739
+	c# 4.85461837053
+	flex4 4.58192521334
+	spark view engine 4.54926759005
+	cassandra 4.41101109982
+User:::: "Cheng, Hao" <hao.cheng@intel.com>
+	merge 13.0750604868
+	cassandra 2.0 11.72270751
+	apache spark 11.72270751
+	join 11.6105508804
+	java 6.75608247519
+	mysql 5.693800807
+	hadoop 5.69160246849
+	codeigniter 5.13463020325
+	oauth 2.0 5.13463020325
+	datasource 5.11881923676
+	flex 5.09013414383
+	spark 5.09013414383
+	c# 4.38677942753
+	r 3.75557374954
+	cassandra 2.94067406654
