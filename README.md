@@ -17,7 +17,7 @@ A folder called `index` is created.
 ###Extracting the skills
 After building the knowledge base, next step is use the `searcher_text()` in `searcher.py` to extract the skills.
 The folder `index` will be used in  `searcher.py`.
-
+Open python and:
 ```
 In [1]: from searcher import *
 In [2]: searcher_text('''I want to get a list of the column headers from a pandas DataFrame. The DataFrame will come from user input so I won't know how many columns there will be or what they will be called.''')
@@ -29,5 +29,7 @@ Out[2]:
  u'python 3.x',
  u'python 2.7']
 ```
-
+###Testing the application on Apache Spark Mailing Lists Dataset
+Download the mbox file from (http://mail-archives.apache.org/mod_mbox/spark-dev/201511.mbox). 
+Run the file apache_spark_example.py. One can see the output like in apache_spark_output.txt 
 
